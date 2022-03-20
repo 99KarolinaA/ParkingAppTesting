@@ -1,5 +1,6 @@
 # ParkingAppTesting
 
+All the tests can be found in the folowing location: *ParkingAppTesting/src/test/java/mk/ukim/finki/dians/parking_application/*
 
 The ***ParkingServiceTest*** and ***UserServiceTest*** tests test the **business logic** of the **Parking application** (the service implementation - *ParkingServiceImpl* and *UserServiceImpl*). 
 These tests are not intended to check the full application functionality including inserting data into database.
